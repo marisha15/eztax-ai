@@ -34,7 +34,7 @@ TensorFlow and Scikit-learn for AI models
 Firebase Firestore as the database
 Submission Requirements
 
-GitHub Repo Link: 
+GitHub Repo Link: https://github.com/marisha15/eztax-ai/blob/main/README.md
 Google Doc Submission Link: https://drive.google.com/file/d/1jZr4aBe-9oiuW-S0R0vRd3EaHF0GxRFA/view?usp=sharing
 Contact
 For questions, reach out at:
